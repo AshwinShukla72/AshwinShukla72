@@ -3,3 +3,7 @@
 <div fontFamily: "JetBrains Mono, monospace">
   Backend Engineer (3 yrs) - systems design, database optimization, CRM maintenance. Diving into microservices & serverless while staying committed to excellence.
 </div>
+
+<div fontFamily: "JetBrains Mono, monospace">
+  <a href="https://ashwinshukla.substack.com/p/ashwin-shukla">See My Resume</a>
+</div>
