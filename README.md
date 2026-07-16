@@ -14,9 +14,7 @@ reliability, and crypto/fintech integrations
 Backend Engineer | Distributed Systems | Kafka | Event-Driven Architecture | AI Engineering
 </h3>
 
-<p align="center">
-  <img src="assets/profile.jpg" width="220" style="border-radius:50%;" alt="Ashwin Shukla"/>
-</p>
+<a href="https://app.daily.dev/ashwinshukla"><img src="https://api.daily.dev/devcards/v2/FsH9AzjT74MlupWC5eziu.png?type=wide&r=e38" width="652" alt="Ashwin shukla's Dev Card"/></a>
 
 ---
 
@@ -104,26 +102,6 @@ Throughout my career I've focused on engineering systems that are reliable, scal
 - Cloud Infrastructure
 - AI Engineering
 - Platform Engineering
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🤝 Let's Connect
 
